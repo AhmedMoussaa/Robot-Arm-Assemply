@@ -1,0 +1,11 @@
+So in order to connect the robot arm just follow those simple steps 
+
+
+1- Import the Base and start working from it
+2- Bring Waist and put it above the base so they are connected together
+3- Connect Arm 01 with the Waist 
+4- Connect Arm 02 with Arm 01 
+5- Connect Waist 001 with Arm 02 so they are linked together proberly
+6- Connect the Gripper with the Waist 001 
+
+Now the robot arm is connected and you are good to go
